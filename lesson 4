@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>student perfomance table</title>
+</head>
+<body>
+<table border="1" cellpadding="10">
+    <tr>
+        <tr>
+    <th colspan="5">student perfomance table</th>
+</tr>
+        <th>student name</th>
+        <th>html 5</th>
+        <th>css</th>
+        <th>bootstrap</th>
+        <th>project</th>
+    </tr>
+    <tr>
+        <td>david</td>
+        <td>89</td>
+        <td>71</td>
+        <td>82</td>
+        <td>85</td>
+    </tr>
+    <tr>
+        <td>elizabeth</td>
+        <td>91</td>
+        <td>82</td>
+        <td>84</td>
+        <td>92</td>
+    </tr>
+    <tr>
+        <td>steve</td>
+        <td>91</td>
+        <td>85</td>
+        <td>84</td>
+        <td>95</td>
+    </tr>
+    <tr>
+        <td>agnes</td>
+        <td rowspan="3">80</td>
+        <td>88</td>
+        <td>86</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>jane</td>
+
+        <td>8o</td>
+        <td>88</td>
+        <td>95</td>
+    </tr>
+    <tr>
+        <td>michael</td>
+
+        <td>82</td>
+        <td>80</td>
+        <td>99</td>
+    </tr>
+</table>
+
+</body>
+</html>
